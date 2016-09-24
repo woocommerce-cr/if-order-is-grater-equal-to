@@ -4,4 +4,4 @@ Hide menu if number of orders is greater than or equal to 1
 
 Usage:
 
-    hide_header_links();
+    <?php header_menu_if_is_grater_equal(); ?>
